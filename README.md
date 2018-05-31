@@ -1,5 +1,4 @@
-# staffingdental
-Staffing Dental
+#Staffing Dental
 
 Staffing Dental is an innovative online platform
 that connects dental employers and employees together!
